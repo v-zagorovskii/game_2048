@@ -2,8 +2,9 @@
 ## Description
 This project is a web-based implementation of the popular 2048 game. Users can slide tiles on a grid to combine numbers, aiming to reach the 2048 tile.
 ## Technologies Used
-**JavaScript:** Core game logic and interactions
-**SCSS:** Styling and responsive design
+
+- **JavaScript:** Core game logic and interactions
+- **SCSS:** Styling and responsive design
 
 ## How to Run Locally
 # Clone the Repository
